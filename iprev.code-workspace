@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap4",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap4"
+	}
+}
